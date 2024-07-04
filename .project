@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>servlet1</name>
+=======
+	<name>LearnServlet1</name>
+>>>>>>> 9a9c42fcc038736acdebab9b32ccffa47d8bcdd6
 	<comment></comment>
 	<projects>
 	</projects>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="servlet1">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="servlet1"/>
         <property name="java-output-path" value="/servlet1/build/classes"/>
+=======
+    <wb-module deploy-name="LearnServlet1">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="LearnServlet1"/>
+        <property name="java-output-path" value="/LearnServlet1/build/classes"/>
+>>>>>>> 9a9c42fcc038736acdebab9b32ccffa47d8bcdd6
     </wb-module>
 </project-modules>
